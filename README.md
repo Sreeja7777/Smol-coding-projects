@@ -1,2 +1,2 @@
 # Smol-coding-projects
-A collection of small coding projects and experiments and all the languages i have learnt
+A collection of small coding projects and experiments in all the languages i have learnt
